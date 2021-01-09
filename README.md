@@ -1,5 +1,5 @@
 # halfatomique
-My first website 20 years ago that was about modding in Half-Life. 
-The html and the design was the state of the art but pretty fun lol.
+My first website in 2000 about modding in Half-Life.
+Don't look at the html markups😅.
 
 https://willahh.github.io/halfatomique/
